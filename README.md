@@ -1,2 +1,2 @@
 # digwo2-maarten
-repo voor Digitale Werkomgeving 2
+Repository voor Digitale Werkomgeving 2
